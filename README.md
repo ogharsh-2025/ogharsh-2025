@@ -21,6 +21,18 @@
 
 <br />
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ogharsh-2025/ogharsh-2025/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ogharsh-2025/ogharsh-2025/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ogharsh-2025/ogharsh-2025/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
+
+<br />
+
 <div align="center">
   <a href="https://ogharsh-2025.github.io/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/harsh-awasthi-117411297/">LinkedIn</a> &nbsp;·&nbsp;
